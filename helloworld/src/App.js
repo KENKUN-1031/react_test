@@ -3,8 +3,9 @@ import Test from './random';
 import Form from './form';
 import Count from './count';
 import Jyanken from './game';
+import './App.css'
 
-// カウントシステム
+// おお元実行場所
 class App extends React.Component{
 
   render(){
